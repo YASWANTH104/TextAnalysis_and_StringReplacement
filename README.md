@@ -52,8 +52,8 @@ Follow these instructions to set up and run the project locally.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/YASWANTH104/TextAnalysis_and_StringReplacement.git
+   cd TextAnalysis_and_StringReplacement
 2.**Install dependencies: Using npm:**
     npm install
 
@@ -66,20 +66,20 @@ Follow these instructions to set up and run the project locally.
     http://localhost:3000
 
 ### Project Structure
-src/
-    components/
-        TextAnalysisApp.js - Main component for text analysis and string replacement
-    App.js - Root component
-    App.css - Custom styles
-public/ - Public assets and HTML template
+-src/
+    -components/
+        -TextAnalysisApp.js - Main component for text analysis and string replacement
+    -App.js - Root component
+    -App.css - Custom styles
+-public/ - Public assets and HTML template
 
 ### Usage
 
-1.Enter text in the textarea provided.
-2.View the analysis results for unique words and character count.
-3.Use the search and replace functionality to replace specific strings within the text.
+-Enter text in the textarea provided.
+-View the analysis results for unique words and character count.
+-Use the search and replace functionality to replace specific strings within the text.
 
 ### Dependencies
 
-1.React
-2.Bootstrap
+-React
+-Bootstrap
