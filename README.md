@@ -24,8 +24,8 @@ Follow these instructions to set up and run the project locally.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/YASWANTH104/TextAnalysis_and_StringReplacement.git
+   cd TextAnalysis_and_StringReplacement
 # Real-Time Text Analysis and String Replacement
 
 This project is a React application that provides real-time text analysis and string replacement functionality. It counts unique words and characters (excluding spaces and punctuation) in the input text and allows users to replace specific strings within the text.
