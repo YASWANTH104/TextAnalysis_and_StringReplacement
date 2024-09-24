@@ -66,20 +66,20 @@ Follow these instructions to set up and run the project locally.
     http://localhost:3000
 
 ### Project Structure
--src/
-    -components/
-        -TextAnalysisApp.js - Main component for text analysis and string replacement
-    -App.js - Root component
-    -App.css - Custom styles
--public/ - Public assets and HTML template
+src/
+    components/
+        TextAnalysisApp.js - Main component for text analysis and string replacement
+    App.js - Root component
+    App.css - Custom styles
+public/ - Public assets and HTML template
 
 ### Usage
 
--Enter text in the textarea provided.
--View the analysis results for unique words and character count.
--Use the search and replace functionality to replace specific strings within the text.
+1.Enter text in the textarea provided.
+2.View the analysis results for unique words and character count.
+3.Use the search and replace functionality to replace specific strings within the text.
 
 ### Dependencies
 
--React
--Bootstrap
+1.React
+2.Bootstrap
